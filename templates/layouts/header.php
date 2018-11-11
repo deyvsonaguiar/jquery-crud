@@ -8,3 +8,11 @@
     <title>Crud jQuery</title>
 </head>
 <body>
+
+<div>
+    <div>
+        <div>
+            <!-- MENU -->
+        </div>
+        <div>
+            <!-- CONTEÚDO -->
