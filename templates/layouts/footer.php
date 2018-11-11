@@ -1,0 +1,5 @@
+<footer>
+    <script>
+
+    </script>
+</footer>
