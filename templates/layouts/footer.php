@@ -2,9 +2,9 @@
 </div>
 </div>
 
-<footer>
-    <script type="javascript" src="/js/jquery.js"></script>
-    <script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
 
-    </script>
-</footer>
+<script>
+
+</script>
